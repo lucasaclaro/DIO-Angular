@@ -1,0 +1,23 @@
+{
+  "name": "dio-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasaclaro/DIO-Angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasaclaro/DIO-Angular/issues"
+  },
+  "homepage": "https://github.com/lucasaclaro/DIO-Angular#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
